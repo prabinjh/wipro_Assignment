@@ -6,7 +6,6 @@ class InvalidAgeException extends Exception {
         super(message);
     }
 }
-
 // Main Class
 public class CustomExceptionExample {
     // Method to validate age
